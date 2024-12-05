@@ -20,4 +20,14 @@ If frame full, replace least recently used page
 
 
 Track and display page faults
+
+Output :
+
+Enter the number of pages (<1000):
+10
+Enter 10 pages:
+1 2 3 4 3 2 1 1 1 3
+Enter the number of frames (<100):
+4
+PAGE FAULTS = 4
 </b>
