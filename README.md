@@ -1,13 +1,15 @@
 <b>
 LRU (Least Recently Used) Page Replacement Algorithm
   
-Aim
+Aim:
+
 Implement the Least Recently Used page replacement algorithm for memory management.
 
-Description
+Description:
+
 LRU replaces the page that has not been used for the longest time, based on historical page access patterns.
 
-Algorithm
+Algorithm:
 
 Initialize page frames with -1
 For each page in the reference string:
